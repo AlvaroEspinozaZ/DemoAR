@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mario | Funko Pop Bros.
+* source:	https://sketchfab.com/3d-models/mario-funko-pop-bros-9dfcd7641c1a42e1b1ec9e0df0efe7bf
+* author:	Max Marvin de Saint Denis "mdsd95" (https://sketchfab.com/mdsd95)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mario | Funko Pop Bros." (https://sketchfab.com/3d-models/mario-funko-pop-bros-9dfcd7641c1a42e1b1ec9e0df0efe7bf) by Max Marvin de Saint Denis "mdsd95" (https://sketchfab.com/mdsd95) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

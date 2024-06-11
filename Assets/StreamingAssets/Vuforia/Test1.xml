@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="NewFunko" size="0.100000 0.132804" />
+    <ImageTarget name="blacklustersoldierenvoyofthebeginning2" size="0.100000 0.147233" />
+    <ImageTarget name="galaxyeyesphotondragon" size="1.000000 1.455301" />
+    <ImageTarget name="blacklustersoldierenvoyofthebeginning" size="1.000000 1.472332" />
+  </Tracking>
+</QCARConfig>
